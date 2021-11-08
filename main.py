@@ -8,8 +8,8 @@ import os.path
 from ProgrammingLanguages import ProgrammingLanguages
 import os
 
-test_root = "TestInput/"
-result_root = "TestOutput/"
+test_root = "./TestInput/"
+result_root = "./TestOutput/"
 
 # Main function.
 def main(argv):
